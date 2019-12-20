@@ -1,0 +1,9 @@
+Package: com.haizs.nspeed
+Name: Nspeed
+Depends: mobilesubstrate
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Always show network speed on right-upper corner.
+Maintainer: Haizs Chen
+Author: Haizs Chen
+Section: Tweaks
